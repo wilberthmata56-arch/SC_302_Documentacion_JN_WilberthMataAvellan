@@ -1,1 +1,5 @@
-# SC_302_Documentacion_JN_WilberthMataAvellan
+SC\_302\_Documentacion\_JN\_WilberthMataAvellan
+
+ Esta es mi primera práctica con GitHud :p
+===
+
